@@ -1,22 +1,25 @@
-# Hi, I'm Zachary 👋
+# Zachary Evans
 
-I'm a math student interested in numerical optimization, machine learning, and applied linear algebra.
+Looking for more? cjeck out [@abuzmander](https://github.com/abuzmander), my old account where I have more projects I have done in the past
 
 ## 🔧 Skills
-- Python, NumPy, CVXPY
+- Python, NumPy, CVXPY, PyTorch, Julia, HTML, JAVA
 - Linear algebra & optimization
 - Statistical modeling
 
 ## 📂 Projects
-- **Simplex Solver** – Implemented the simplex algorithm in Python
-- **CVXPY Optimization Labs** – Convex optimization practice
+- **[Chess](https://github.com/abuzmander/chess)** – Where I createds a chess game
+- **[Reviewer Analysis](https://github.com/abuzmander/Zachary_Evans_Reviewer_Analysis)** – A project I worked on where I analyzed what makes an effective steam reviewer using python (pandas, sklearn, tqdm)
 - **Newton Fractals** – Visualization of complex dynamics
 
 ## 🎓 Coursework
 - Numerical Linear Algebra
 - Optimization
 - Probability & Statistics
+- Advanced Deep Learning
 
-## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourname
+##  🌱 Interests
+- Machine Learning - Large language models, AI alignment, mechanistic interpretability, distributed training
+- Outdoor Activities - Kyaking, Rock Climbing, Camping
+- Literature - Classic literature, Fantasy, Sci-fi
+- Other Activities - Competitive Pokemon, Working Out, Board Games, Foosball
