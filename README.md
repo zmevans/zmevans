@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Zachary 👋
 
-<!--
-**zmevans/zmevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a math student interested in numerical optimization, machine learning, and applied linear algebra.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, NumPy, CVXPY
+- Linear algebra & optimization
+- Statistical modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Simplex Solver** – Implemented the simplex algorithm in Python
+- **CVXPY Optimization Labs** – Convex optimization practice
+- **Newton Fractals** – Visualization of complex dynamics
+
+## 🎓 Coursework
+- Numerical Linear Algebra
+- Optimization
+- Probability & Statistics
+
+## 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/yourname
