@@ -1,6 +1,10 @@
 # Zachary Evans
 
-Looking for more? Check out [@abuzmander](https://github.com/abuzmander), my old account where I have more projects I have done in the past
+Looking for more? Check out [@abuzmander](https://github.com/abuzmander), my old account where I have more projects I have done in the past.
+- Graduate from BYU w/ a major in ACME (Applied and Computational Mathematics Emphasis)
+- Previously worked for the City of Provo as a GIS Intern
+- Previously conducted researtch on the attention layer of neural networks at BYU GNN (Graph Neural Network) Lab
+- Previously conducted research on geneology creating programs to help relate families at BYU RLL (Record Linking Labs)
 
 ## 🔧 Skills
 - Python, NumPy, CVXPY, PyTorch, Julia, HTML, JAVA
