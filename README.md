@@ -1,6 +1,6 @@
 # Zachary Evans
 
-Looking for more? cjeck out [@abuzmander](https://github.com/abuzmander), my old account where I have more projects I have done in the past
+Looking for more? Check out [@abuzmander](https://github.com/abuzmander), my old account where I have more projects I have done in the past
 
 ## 🔧 Skills
 - Python, NumPy, CVXPY, PyTorch, Julia, HTML, JAVA
