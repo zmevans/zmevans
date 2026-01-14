@@ -13,7 +13,7 @@ Looking for more? Check out [@abuzmander](https://github.com/abuzmander), my old
 
 ## 📂 Projects
 - **[Chess](https://github.com/abuzmander/chess)** – Where I created a chess game using Java
-- **[Reviewer Analysis](https://github.com/abuzmander/Zachary_Evans_Reviewer_Analysis)** – A project I worked on where I analyzed what makes an effective steam reviewer using python (pandas, sklearn, tqdm)
+- **[Reviewer Analysis](https://github.com/zmevans/reviewer-analysis)** – A project I worked on where I analyzed what makes an effective steam reviewer using python (pandas, sklearn, tqdm)
 - **Newton Fractals** – Visualization of complex dynamics
 
 ## 🎓 Coursework
