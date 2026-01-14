@@ -12,7 +12,7 @@ Looking for more? Check out [@abuzmander](https://github.com/abuzmander), my old
 - Statistical modeling
 
 ## 📂 Projects
-- **[Optimal Path Around a Racetrack](Optimal Racetrack)** – A project trying to identify the optimal path around a race track using boundary valued conditions.
+- **[Optimal Path Around a Racetrack](https://github.com/zmevans/optimal-racetrack)** – A project trying to identify the optimal path around a race track using boundary valued conditions.
 - **[Reviewer Analysis](https://github.com/zmevans/reviewer-analysis)** – A project I worked on where I analyzed what makes an effective steam reviewer using python (pandas, sklearn, tqdm)
 - **Newton Fractals** – Visualization of complex dynamics
 
